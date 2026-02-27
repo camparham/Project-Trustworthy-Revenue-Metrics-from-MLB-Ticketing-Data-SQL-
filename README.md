@@ -17,7 +17,7 @@ Goal: Validate joins and grain so metrics are reliable
 * Which channel generates the most revenue? → [View Query](queries/04_grain_validation.sql)
 * - Business Insight: (single-dimensional analysis)  Revenue by channel helps GTM and marketing teams identify the highest-performing sales channels, enabling data-driven allocation of marketing spend, partnership investment, and promotional strategy toward channels that deliver the greatest revenue impact.
 
-* Which game generates the most revenue?   → [View Query](queries/04_grain_validation.sql)
+* Which game generates the most revenue?   → [View Query](query-1.sql)
 * - Business Insight: (single-dimensional analysis) Identifying top revenue-generating games helps organizations understand demand drivers—such as opponent strength, timing, or external factors—allowing teams to optimize pricing, marketing investment, and future event strategy to maximize revenue outcomes.
     
 * What is revenue per channel per game?   → [View Query](queries/04_grain_validation.sql)
