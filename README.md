@@ -14,7 +14,7 @@ Goal: Validate joins and grain so metrics are reliable
 * - standardized_tickets 
 
 ### Business Value Questions & Queries 
-* Which channel generates the most revenue? → [View Query](queries/04_grain_validation.sql)
+* Which channel generates the most revenue? → [View Query](https://github.com/camparham/Project-Trustworthy-Revenue-Metrics-from-MLB-Ticketing-Data-SQL-/blob/main/query-1.sql)
 * - Business Insight: (single-dimensional analysis)  Revenue by channel helps GTM and marketing teams identify the highest-performing sales channels, enabling data-driven allocation of marketing spend, partnership investment, and promotional strategy toward channels that deliver the greatest revenue impact.
 
 * Which game generates the most revenue?   → [View Query](query-1.sql)
